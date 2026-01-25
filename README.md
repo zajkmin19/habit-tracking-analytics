@@ -2,8 +2,8 @@
 
 Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comparativas mensuales/anuales y progreso visual.
 
-![Dashboard](Screenshots/dashboard.png)
-![Interfaz Diaria](Screenshots/interfaz.png)
+![Dashboard](Screenshots/Dashboard.png)
+![Interfaz Diaria](Screenshots/Interfaz.png)
 
 ## Cómo usar
 
@@ -14,10 +14,14 @@ Proyecto para analizar hábitos diarios, KPIs de cumplimiento y desempeño, comp
 5. Presionar el botón **Registrar Día** al final del día.
 6. Para el primer uso dar autorización a AppScript que aparecerá luego de presionar el botón Registrar Día
 
-## Métricas principales
+## Responde a las preguntas
+- ¿Cumplo o no cumplo?
+- ¿Estoy mejorando o empeorando en el tiempo?
+- ¿Qué hábitos son el cuello de botella?
 
-- Porcentaje de cumplimiento / no cumplimiento (KPI)
-- Hábitos con mejor/peor desempeño
-- Días que más se cumplen hábitos
-- Comparativa mensual y anual
-- Línea de progreso acumulada
+## Métricas principales
+- % de cumplimiento
+- Cantidad de días cumplidos
+- Racha máxima
+- Promedio de cumplimiento por hábito
+- Tendencia mensual (sube / baja / estable)
