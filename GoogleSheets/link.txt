@@ -2,3 +2,6 @@
 
 https://docs.google.com/spreadsheets/d/12cGQ3Lz8d5Kems3h_OaEHe-HvG7Yy87jAZQyzwZbx2I/edit?gid=1233315671#gid=1233315671
 
+
+-- Link de acceso a la hoja de cálculo con datos de prueba
+https://docs.google.com/spreadsheets/d/1whq39T1d3D7eTKbLsb0Tl5u_bsUn4Aa6pqhYqm6y7DM/edit?gid=2014029861#gid=2014029861
